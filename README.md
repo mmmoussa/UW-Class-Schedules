@@ -1,4 +1,4 @@
-# UW-Class-Schedules
+# UW Class Schedules
 Understanding the relationship between the time and day of week and the number of students scheduled to be in class
 
 ## Purpose
@@ -12,7 +12,7 @@ If you want to start from the beginning and download the data yourself, [get an 
 If you don't want to gather the data yourself, don't worry, I've included it in this repo. All you need to do is run [process.py](process.py) to get the results.
 
 ## Result
-You can see the resulting graph [here]()
+You can see the resulting graph [here](http://mmmoussa.com/uw-class-schedules)
 
 ## Disclaimer
 The data used by this project comes from the [University of Waterloo Open Data API](https://api.uwaterloo.ca). The accuracy of the data and results is not guaranteed and is provided without warranty.
